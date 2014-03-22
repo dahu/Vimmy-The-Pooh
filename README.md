@@ -16,3 +16,11 @@ Vimmy-The-Pooh
 
     Pooh nodded thoughtfully.  "It's the same thing," he said.
 
+.
+
+    "Well," said Vimmy the Pooh, "what I like best," and then he had to stop
+    and think. Because although Editing Text was a very good thing to do, there
+    was a moment just before you began to type which was better than when you
+    were, but he didn't know what it was called.
+
+
