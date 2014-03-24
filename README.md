@@ -57,7 +57,7 @@ Adventure is going to happen.__
 
 .
 
-    That's what #vimmers always do," said Pooh, much interested. "They call
-    ':help! :help!' and then when you look up, they don't panic."
+    "That's what #vimmers always do," said Vimmy the Pooh, much interested.
+    "They call ':help! :help!' and then when you look up, they don't panic."
 
 .
