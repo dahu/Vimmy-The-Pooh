@@ -50,3 +50,14 @@ Adventure is going to happen.__
     A vimmer, however hard he tries, grows tardy without practice.
 
 .
+
+    Vimmy the Pooh looked at his modes. He knew that one of them was the normal
+    mode, and he knew that when you had decided which one of them was normal,
+    then the other one was insert, but he never could remember how to begin.
+
+.
+
+    That's what #vimmers always do," said Pooh, much interested. "They call
+    ':help! :help!' and then when you look up, they don't panic."
+
+.
