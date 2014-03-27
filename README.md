@@ -120,3 +120,11 @@ Adventure is going to happen.__
     began it.  It's just that something happened to it on the way."
 
 .
+
+    "Supposing Vim crashed, Pooh, while we were using it?"
+
+    "Supposing it didn't," said Vimmy the Pooh after careful thought.
+
+    Piglet was comforted by this.
+
+.
