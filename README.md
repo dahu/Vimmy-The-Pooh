@@ -128,3 +128,13 @@ Adventure is going to happen.__
     Piglet was comforted by this.
 
 .
+
+    The wonderful thing about Vim
+    Is Vim is a wonderful thing
+    Its edits are made out of modes
+    Its :help will make you sing
+    It's typey, writey, mighty, flighty fun, fun, fun, fun, fun!
+    But the most wonderful thing about Vim is it's the only one
+    It's the only one.
+
+.
