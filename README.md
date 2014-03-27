@@ -34,9 +34,13 @@ Adventure is going to happen.__
 .
 
     "Emacs is clever," said Vimmy the Pooh thoughtfully.
+
     "Yes," said Piglet, "Emacs is clever."
+
     "And he has Everything."
+
     "Yes," said Piglet, "Emacs has Everything."
+
     There was a long silence.
     "I suppose," said Pooh, "that that's why he never edits anything."
 
@@ -59,5 +63,60 @@ Adventure is going to happen.__
 
     "That's what #vimmers always do," said Vimmy the Pooh, much interested.
     "They call ':help! :help!' and then when you look up, they don't panic."
+
+.
+
+    "Pooh, do you think we could use Vim for editing more types of files?"
+
+    Vimmy the Pooh replied, "I should think so, Piglet."
+
+.
+
+    Piglet fidgeted with his keyboard for a while and then quietly asked,
+    "How do I copy your vimrc, Pooh?"
+
+    "You don't," said Vimmy the Pooh, "you create your own."
+
+.
+
+    Some people talk to Vim. Not many listen though. That's the problem.
+
+.
+
+    "He's editing still," said Eeyore gloomily.
+
+    "So he is." Vimmy the Pooh observed politely.
+
+    "And committing."
+
+    "Is he?"
+
+    "Yes," said Eeyore.
+    "However," he said, brightening up a little, "we haven't had an issue
+    logged lately."
+
+.
+
+    "Oh, :help!" said Vimmy the Pooh. "I'd better find out."
+    "Oh, google!" said Pooh. "I shall have to learn more."
+    "I don't know!" said Pooh. "Oh, :help and google!"
+
+.
+
+    "How would it be," said Vimmy the Pooh slowly, "if we delete this function
+    and try to write a different one?"
+
+    "What's the good of that?" said Rabbit.
+
+    "Well," said Pooh, "we keep looking for a Solution and not finding it, so I
+    thought that if we looked for the solution to another problem, we'd be sure
+    not to find it, which would be a Good Thing, because then we might find
+    something that we weren't looking for, which might be just what we were
+    looking for, really."
+
+    "I don't see much sense in that," said Rabbit.
+
+    "No," said Pooh humbly, "there isn't. But there was going to be when I
+    began it.  It's just that something happened to it on the way."
 
 .
