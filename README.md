@@ -155,3 +155,28 @@ Adventure is going to happen.__
      managers bother me."
 
 .
+
+
+    Piglet wondered if Pooh was listening but was too scared to ask him as he
+    wouldn't want to interrupt his vimming, so he quietly continued telling his
+    story about needing a cheer for "team #vim". Piglet was careful to watch Pooh's
+    face to know when he should stop.
+
+    Vimmy the Pooh typed a command and then another. He enjoyed the way they rolled
+    off his fingers; the way the click of the keys echoed his thoughts. He loved
+    being in this mode. He was enjoying editing text, and he was aware that he was
+    enjoying it. He typed some more and smiled.
+
+    Piglet stopped talking. Pooh leant back in his chair and stretched his back and
+    then his neck and then his fingers. And then he gazed at Pooh and, still
+    smiling, said: "Vim feels good, like an editor should." And then he let out a
+    deep sigh and stared past Piglet's head off into the distance, his mind lost in
+    Vim.
+
+    Piglet's eyes widened and his mouth made the shapes of Pooh's words as he
+    repeated the phrase over and over in his mind.
+
+    Finally, in a triumphant squeal that startled Pooh, Piglet jumped up and cried
+    out: "#vim has taught, like a chat room aught!"
+
+.
