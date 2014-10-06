@@ -142,13 +142,13 @@ Adventure is going to happen.__
     "Pooh! Rabbit just wrote a new plugin manager called VimAddonNeoBundleW00t!",
     squeaked Piglet excitedly.
 
-    Oh, Clever Rabit, thought Vimmy the Pooh.
+    Oh, Clever Rabbit, thought Vimmy the Pooh.
 
     "Which plugin manager do you use, Pooh?"
 
     "Pathogen" muttered Pooh.
 
-    "But, it doesn't have :BundlesOfJoy" exclaimned Piglet, "and you can't..."
+    "But, it doesn't have :BundlesOfJoy" exclaimed Piglet, "and you can't..."
     he began to say but stopped when Pooh looked up from his keyboard.
 
     "I am a Vimmer of Very Little Patience, and complicated plugin
