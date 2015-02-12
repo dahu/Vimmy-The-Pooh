@@ -168,7 +168,7 @@ Adventure is going to happen.__
     enjoying it. He typed some more and smiled.
 
     Piglet stopped talking. Pooh leant back in his chair and stretched his back and
-    then his neck and then his fingers. And then he gazed at Pooh and, still
+    then his neck and then his fingers. And then he gazed at Piglet and, still
     smiling, said: "Vim feels good, like an editor should." And then he let out a
     deep sigh and stared past Piglet's head off into the distance, his mind lost in
     Vim.
